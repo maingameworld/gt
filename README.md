@@ -1,0 +1,2 @@
+# gt
+shy,smart,sexy
